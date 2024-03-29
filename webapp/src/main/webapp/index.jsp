@@ -10,7 +10,7 @@
 
 <div class="container mt-3">
   <h2>Maven WEB SERVER</h2>
-  <div class="mt-4 p-5 bg-danger text-white rounded">
+  <div class="mt-4 p-5 bg-warning text-white rounded">
     <h1>IT WORKS!</h1> 
     <p>Yes, Maven/Jenkins is Great and work very well</p> 
   </div>
